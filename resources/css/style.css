@@ -18,13 +18,7 @@ h1{
   color: white;
 }
 li{
-  text-decoration: underline;
-  font-family: Helvetica;
-  font-size: 18px;
-  color: white;
-  list-style-type: none;
-  font-weight: bold;
-  line-height: 1.85;
+
 }
 div{
   background-image: url("the-flatiron-building.png");
